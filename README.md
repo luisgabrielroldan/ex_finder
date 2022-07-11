@@ -1,6 +1,8 @@
 <!-- MDOC !-->
 # ExFinder
 
+**WARNING: This is a work in progress. Do not use it in production!!!**
+
 ExFinder is a File Manager implemented with LiveView and designed to be easily
 integrated with WYSIWYG editors for picking files.
 
